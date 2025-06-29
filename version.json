@@ -1,0 +1,18 @@
+{
+    "version": "0.1",
+    "app_version": {
+        "updater": "0.1",
+        "optimizer": "0.1",
+        "remove_ai_sites": "0.1",
+        "setup": "0.1",
+        "battery_module": "0.1"
+    },
+    "app_url": {
+        "updater": "https://raw.githubusercontent.com/bp2881/optimizer/refs/heads/main/source/updater.exe",
+        "optimizer": "https://raw.githubusercontent.com/bp2881/optimizer/refs/heads/main/source/optimizer.exe",
+        "remove_ai_sites": "https://raw.githubusercontent.com/bp2881/optimizer/refs/heads/main/source/remove_ai_sites.exe",
+        "remove_ai_sites_manifest": "https://raw.githubusercontent.com/bp2881/optimizer/refs/heads/main/source/remove_ai_sites.exe.manifest",
+        "setup": "https://raw.githubusercontent.com/bp2881/optimizer/refs/heads/main/source/setup.exe",
+        "battery_module": "https://raw.githubusercontent.com/bp2881/optimizer/refs/heads/main/source/battery_module.exe"
+    }
+}

@@ -1,0 +1,2 @@
+1) In version.json, seperate for "rmd" and "onetime" (or use better json)
+2) Finish CLI(optimizer.py)
